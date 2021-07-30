@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/null_20210611185502/PCNM00_11_OTA_1290_all_POfc2IoO7sfw.ozipR6c09oL3JiVExRRmd6YnpKNXdDeWVIaVVwblpPRTc5ZWs9/PixelExperience_guacamoleb-10.0-20200930-1526-OFFICIAL.zip
-  ROM_NAME: Color
+  ROM_URL: http://download.h2os.com/OnePlus6T/MP/OnePlus6THydrogen_34.K.51_OTA_051_all_2105262300_30f382738dfe4ae0.zip
+  ROM_NAME: OxygenOS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
